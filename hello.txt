@@ -8,5 +8,5 @@ hello kid! hello git!
 hello kid! hello git!
 hello kid! hello git!
 hello kid! hello git!
-hello kid! hello git!
+hello kid! hello git! master test
 hello kid! hello git!
