@@ -9,4 +9,4 @@ hello kid! hello git!
 hello kid! hello git!
 hello kid! hello git!
 hello kid! hello git!
-hello kid! hello git!
+hello kid! hello git! hot-fix test
