@@ -11,4 +11,3 @@ hello kid! hello git!
 hello kid! hello git! master test
 hello kid! hello git! hot-fix test
 1111111111111111111111111111111111
-222222222222222222222  BY LHC
